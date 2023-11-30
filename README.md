@@ -1,4 +1,4 @@
-# WrathOfTheWizard
+# The Wizard
 ## **A time-based survival game featuring waves of gremlins and a courageous wizard (you) who'll stop at nothing to survive!**
 
 #### *Download files and use 'gradle run' to launch*
