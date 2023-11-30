@@ -5,7 +5,7 @@
 
 <br>
 
-List of options:
+List of actions:
 
 * 2x speed - Speed the game up
 
