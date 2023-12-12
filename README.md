@@ -20,6 +20,5 @@ List of actions:
 * Upgrade damage - Upgrade tower's damage per shot
 
 * Mana pool upgrade - Increases the wizard's mana cap, the amount of mana gained from kills, and the mana trickle gained over time
-<p align="center">
+
 ![alt text](https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png)
-</p>
