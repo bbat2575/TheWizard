@@ -21,6 +21,4 @@ List of actions:
 
 * Mana pool upgrade - Increases the wizard's mana cap, the amount of mana gained from kills, and the mana trickle gained over time
 
-<p align="center">
-    <img src="https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png"/>
-</p>
+![alt text](https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png)
