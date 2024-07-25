@@ -1,7 +1,7 @@
 # The Wizard
 ## **A wave-based survival game featuring waves of gremlins and a courageous wizard (you) who'll stop at nothing to survive!**
 
-#### *Download files and type 'gradle run' to launch - uses Java 8*
+#### *Download files and type 'gradle run' to launch (uses Java 8).*
 
 <br>
 
