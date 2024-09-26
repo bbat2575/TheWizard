@@ -1,6 +1,10 @@
 # The Wizard
 **A wave-based survival game featuring waves of gremlins and a courageous wizard (you) who'll stop at nothing to survive!**
 
+<p align="center">
+    <img src="https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png"/>
+</p>
+
 ## How To Run
 
 ```bash
@@ -22,10 +26,6 @@ gradle clean build run
 * Upgrade damage - Upgrade tower's damage per shot
 
 * Mana pool upgrade - Increases the wizard's mana cap, the amount of mana gained from kills, and the mana trickle gained over time
-
-<p align="center">
-    <img src="https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png"/>
-</p>
 
 ## Tech Stack
 - JDK 8
