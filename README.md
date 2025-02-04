@@ -1,5 +1,5 @@
 # The Wizard
-A wave-based survival game featuring waves of gremlins and a courageous wizard (you) who'll stop at nothing to survive!
+A wave-based survival game where you, a courageous wizard, must fend off relentless waves of gremlins and fight for survival at all costs!
 
 <p align="center">
     <img src="https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png"/>
